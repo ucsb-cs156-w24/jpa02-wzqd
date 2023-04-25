@@ -1,4 +1,4 @@
-name: Java CI
+name: Jacoco
 
 on:
   pull_request:
