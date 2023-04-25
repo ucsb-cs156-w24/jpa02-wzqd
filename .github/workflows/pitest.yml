@@ -1,4 +1,4 @@
-name: Java CI
+name: Pitest
 
 on:
   pull_request:
