@@ -8,9 +8,9 @@
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s23/jpa02-cgaucho
+  https://github.com/ucsb-cs156-m23/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-s23/STARTER-jpa02
+Repo: https://ucsb-cs156-m23/STARTER-jpa02
 
 * TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
