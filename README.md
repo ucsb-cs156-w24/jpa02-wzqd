@@ -12,7 +12,7 @@
 
 Repo: https://ucsb-cs156-f23/STARTER-jpa02
 
-* TODO: Correct the "deployed at" link to app on Heroku or Render below, 
+* TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
   a link to your running app on Dokku, e.g.
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
@@ -59,12 +59,9 @@ below.
   * Converting `pom.xml` to use Java 17
 * JUnit 5
   * Converting test code to use JUnit 5 instead of JUnit 4  
-* Heroku Support
+* Dokku Support
   * Ensuring that the `PORT` environment variable is
     used to define the port on which Spring Boot starts the web server 
-  * Providing a `Procfile` for deployment on Heroku
-  * Added a `system.properties` file in the main directory
-    which specifies the Java version for Heroku.
 * Testing and CI
   * Adding JUnit tests
   * Adding jacoco as a plugin to measure test 
